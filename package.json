@@ -1,0 +1,20 @@
+{
+  "devDependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "projet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "ansi-regex": "^4.1.1",
+    "jest": "^30.0.5",
+    "strip-ansi": "^5.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
